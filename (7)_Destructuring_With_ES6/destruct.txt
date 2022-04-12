@@ -1,0 +1,5 @@
+destruct.js is the file I downloaded directly 
+from my completed online workspace (do not delete)
+
+destruct_VS.js is adapted to give output 
+when ran directly in VS code (do not delete)
