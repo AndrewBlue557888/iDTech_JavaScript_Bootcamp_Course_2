@@ -1,0 +1,13 @@
+The assignment says "Update the ul and li styles to 
+match the following design:"
+but I can't see the image in my browser 
+(if its the browser). 
+I could still see the "final outcome" image, 
+so I made it in such a way that it still 
+looks like that, hope you don't mind if its 
+a little different in those areas.
+
+Also, since I could do a seperte background for 
+[active]/"code" than the other items I made 
+the backgroud of that item slightly different for 
+further emphasis.
